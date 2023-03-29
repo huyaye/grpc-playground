@@ -1,0 +1,6 @@
+spring:
+  application:
+    name: cloud-grpc-server
+grpc:
+  server:
+    port: 8200
